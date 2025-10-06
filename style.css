@@ -1,0 +1,23 @@
+.image {
+  width: 468px;
+  height: 467px;
+}
+
+.image .logo {
+  position: fixed;
+  top: 0;
+  left: 60%;
+  width: 468px;
+  height: 468px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.image .menu {
+    position: fixed;
+  top: 0;
+  left: 0;
+  width: 750px;
+  height: 500px;
+  aspect-ratio: 1;
+}
